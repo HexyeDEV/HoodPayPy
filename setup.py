@@ -9,5 +9,4 @@ setup(
     license='MIT',
     classifiers=["Programming Language :: Python :: 3"],
     keywords='hoodpay',
-    packages=find_packages("hoodpay"),
 )
