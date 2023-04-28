@@ -9,4 +9,6 @@ setup(
     license='MIT',
     classifiers=["Programming Language :: Python :: 3"],
     keywords='hoodpay',
+    install_requires=['requests', 'aiohttp'],
+    packages=find_packages(),
 )
